@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheTitansSMP.aternos.me",
+    "ip": "TheTitansSMP.aternos.me:27413",
     "port": 27413,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
